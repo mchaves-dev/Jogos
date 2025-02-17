@@ -1,0 +1,2410 @@
+fileFormatVersion: 2
+guid: 74dc1d11b59927c43ac57afc9ce4d609
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1448252480329919801
+    second: Warrior_Blue_0
+  - first:
+      213: -8838482275237848885
+    second: Warrior_Blue_1
+  - first:
+      213: 5406782203547414040
+    second: Warrior_Blue_2
+  - first:
+      213: 1463704688382458982
+    second: Warrior_Blue_3
+  - first:
+      213: -9152939422376490735
+    second: Warrior_Blue_4
+  - first:
+      213: 5013799040997709749
+    second: Warrior_Blue_5
+  - first:
+      213: -1672519898550114602
+    second: Warrior_Blue_6
+  - first:
+      213: -7791425953029368767
+    second: Warrior_Blue_7
+  - first:
+      213: 1484279566179589967
+    second: Warrior_Blue_8
+  - first:
+      213: -3403234807515756179
+    second: Warrior_Blue_9
+  - first:
+      213: -7028422606531620881
+    second: Warrior_Blue_10
+  - first:
+      213: -8599349895570148482
+    second: Warrior_Blue_11
+  - first:
+      213: 4887455543641441687
+    second: Warrior_Blue_12
+  - first:
+      213: 1617535587422869692
+    second: Warrior_Blue_13
+  - first:
+      213: -6733473425934966021
+    second: Warrior_Blue_14
+  - first:
+      213: 8057981515537251145
+    second: Warrior_Blue_15
+  - first:
+      213: -2295091820497786881
+    second: Warrior_Blue_16
+  - first:
+      213: -4070611951465040981
+    second: Warrior_Blue_17
+  - first:
+      213: -6020158371915913484
+    second: Warrior_Blue_18
+  - first:
+      213: 6852195566242143941
+    second: Warrior_Blue_19
+  - first:
+      213: 8623725918659698721
+    second: Warrior_Blue_20
+  - first:
+      213: -7630331419334528658
+    second: Warrior_Blue_21
+  - first:
+      213: 8250042118999599827
+    second: Warrior_Blue_22
+  - first:
+      213: 1831561948527194828
+    second: Warrior_Blue_23
+  - first:
+      213: 5737398224882651483
+    second: Warrior_Blue_24
+  - first:
+      213: 686275002757285879
+    second: Warrior_Blue_25
+  - first:
+      213: -6820794401073396575
+    second: Warrior_Blue_26
+  - first:
+      213: -8322565654407655767
+    second: Warrior_Blue_27
+  - first:
+      213: 999363956346284212
+    second: Warrior_Blue_28
+  - first:
+      213: 920778665628228539
+    second: Warrior_Blue_29
+  - first:
+      213: -1862056862079330845
+    second: Warrior_Blue_30
+  - first:
+      213: -175862040222990888
+    second: Warrior_Blue_31
+  - first:
+      213: 2103004666898697155
+    second: Warrior_Blue_32
+  - first:
+      213: -4121134383873880558
+    second: Warrior_Blue_33
+  - first:
+      213: -1349581481503386264
+    second: Warrior_Blue_34
+  - first:
+      213: -2586977061673965500
+    second: Warrior_Blue_35
+  - first:
+      213: -3057998330571279762
+    second: Warrior_Blue_36
+  - first:
+      213: 4015574649506354893
+    second: Warrior_Blue_37
+  - first:
+      213: -232515625000527906
+    second: Warrior_Blue_38
+  - first:
+      213: 807218313078530972
+    second: Warrior_Blue_39
+  - first:
+      213: 675785488431832003
+    second: Warrior_Blue_40
+  - first:
+      213: 8958472748343319348
+    second: Warrior_Blue_41
+  - first:
+      213: 8782361303006435773
+    second: Warrior_Blue_42
+  - first:
+      213: 5704183421965384451
+    second: Warrior_Blue_43
+  - first:
+      213: -2183790841163557842
+    second: Warrior_Blue_44
+  - first:
+      213: 9051283987780761484
+    second: Warrior_Blue_45
+  - first:
+      213: -4985013248184194703
+    second: Warrior_Blue_46
+  - first:
+      213: -2110690741743447410
+    second: Warrior_Blue_47
+  - first:
+      213: 5597869990218008791
+    second: Warrior_Blue_48
+  - first:
+      213: -7490071170321743814
+    second: Warrior_Blue_49
+  - first:
+      213: -3107757338139221465
+    second: Warrior_Blue_50
+  - first:
+      213: 5047536160546663753
+    second: Warrior_Blue_51
+  - first:
+      213: -4148541266878104647
+    second: Warrior_Blue_52
+  - first:
+      213: 429336043104486409
+    second: Warrior_Blue_53
+  - first:
+      213: -3187246170801061930
+    second: Warrior_Blue_54
+  - first:
+      213: 1547359339963549388
+    second: Warrior_Blue_55
+  - first:
+      213: -6021040159146955871
+    second: Warrior_Blue_56
+  - first:
+      213: 5150042056499323221
+    second: Warrior_Blue_57
+  - first:
+      213: -3150262331105059838
+    second: Warrior_Blue_58
+  - first:
+      213: 2551082361249137551
+    second: Warrior_Blue_59
+  - first:
+      213: -8876832668839517277
+    second: Warrior_Blue_60
+  - first:
+      213: -8033281151075340229
+    second: Warrior_Blue_61
+  - first:
+      213: 5177879902043176195
+    second: Warrior_Blue_62
+  - first:
+      213: -2496806188035233067
+    second: Warrior_Blue_63
+  - first:
+      213: 6412799187542958021
+    second: Warrior_Blue_64
+  - first:
+      213: 6942968119378836813
+    second: Warrior_Blue_65
+  - first:
+      213: -7023176546439364684
+    second: Warrior_Blue_66
+  - first:
+      213: -3115017436996339825
+    second: Warrior_Blue_67
+  - first:
+      213: 2489946232831978
+    second: Warrior_Blue_68
+  - first:
+      213: 2224688607849164102
+    second: Warrior_Blue_69
+  - first:
+      213: 163031818250711051
+    second: Warrior_Blue_70
+  - first:
+      213: -4856823446677103378
+    second: Warrior_Blue_71
+  - first:
+      213: 5562015918872866337
+    second: Warrior_Blue_72
+  - first:
+      213: 8556255777664779120
+    second: Warrior_Blue_73
+  - first:
+      213: -3494856790969983588
+    second: Warrior_Blue_74
+  - first:
+      213: 646557600524165800
+    second: Warrior_Blue_75
+  - first:
+      213: 3627423106047137265
+    second: Warrior_Blue_76
+  - first:
+      213: 994740004272453859
+    second: Warrior_Blue_77
+  - first:
+      213: 3899141625274694895
+    second: Warrior_Blue_78
+  - first:
+      213: -1253811658759876235
+    second: Warrior_Blue_79
+  - first:
+      213: 6376503054728917835
+    second: Warrior_Blue_80
+  - first:
+      213: -7646805622000757300
+    second: Warrior_Blue_81
+  - first:
+      213: -3063695531895560844
+    second: Warrior_Blue_82
+  - first:
+      213: -3375818603954422842
+    second: Warrior_Blue_83
+  - first:
+      213: 4266229144943823091
+    second: Warrior_Blue_84
+  - first:
+      213: -3176419675530857709
+    second: Warrior_Blue_85
+  - first:
+      213: 6843309962491417440
+    second: Warrior_Blue_86
+  - first:
+      213: 4647686600436546066
+    second: Warrior_Blue_87
+  - first:
+      213: -2557799200660386626
+    second: Warrior_Blue_88
+  - first:
+      213: -2770182693616945470
+    second: Warrior_Blue_89
+  - first:
+      213: -6194898486044122705
+    second: Warrior_Blue_90
+  - first:
+      213: 3601943651746230614
+    second: Warrior_Blue_91
+  - first:
+      213: 2239527899728508787
+    second: Warrior_Blue_92
+  - first:
+      213: 5387218396246111609
+    second: Warrior_Blue_93
+  - first:
+      213: 5976572703782100696
+    second: Warrior_Blue_94
+  - first:
+      213: 7336612274309726477
+    second: Warrior_Blue_95
+  - first:
+      213: 3883417589797524260
+    second: Warrior_Blue_96
+  - first:
+      213: -7591372370766280905
+    second: Warrior_Blue_97
+  - first:
+      213: -8045962688923472912
+    second: Warrior_Blue_98
+  - first:
+      213: -5153753891103219174
+    second: Warrior_Blue_99
+  - first:
+      213: -4401828239770219423
+    second: Warrior_Blue_100
+  - first:
+      213: 1798842279071698190
+    second: Warrior_Blue_101
+  - first:
+      213: -3731352538384843889
+    second: Warrior_Blue_102
+  - first:
+      213: -5341781719142132463
+    second: Warrior_Blue_103
+  - first:
+      213: -7884313419690112172
+    second: Warrior_Blue_104
+  - first:
+      213: -9100351754728980052
+    second: Warrior_Blue_105
+  - first:
+      213: 8836807281464290475
+    second: Warrior_Blue_106
+  - first:
+      213: 5614624784855408896
+    second: Warrior_Blue_107
+  - first:
+      213: -4150842092280206895
+    second: Warrior_Blue_108
+  - first:
+      213: 7696469071651746925
+    second: Warrior_Blue_109
+  - first:
+      213: -4109750650323201385
+    second: Warrior_Blue_110
+  - first:
+      213: 2336029677189772143
+    second: Warrior_Blue_111
+  - first:
+      213: -8236467483964590488
+    second: Warrior_Blue_112
+  - first:
+      213: 5776769893995384640
+    second: Warrior_Blue_113
+  - first:
+      213: 437587495346961638
+    second: Warrior_Blue_114
+  - first:
+      213: -7385929905126529855
+    second: Warrior_Blue_115
+  - first:
+      213: 6074241625606373643
+    second: Warrior_Blue_116
+  - first:
+      213: -1181743013496717387
+    second: Warrior_Blue_117
+  - first:
+      213: 140035711481858485
+    second: Warrior_Blue_118
+  - first:
+      213: 2594601682514330004
+    second: Warrior_Blue_119
+  - first:
+      213: -129999903049418806
+    second: Warrior_Blue_120
+  - first:
+      213: 1396152341535811722
+    second: Warrior_Blue_121
+  - first:
+      213: -4045537635416127149
+    second: Warrior_Blue_122
+  - first:
+      213: 3300170721699751077
+    second: Warrior_Blue_123
+  - first:
+      213: -4694212042194124556
+    second: Warrior_Blue_124
+  - first:
+      213: -5397908753407724009
+    second: Warrior_Blue_125
+  - first:
+      213: 6498686832321373749
+    second: Warrior_Blue_126
+  - first:
+      213: -3079322247051484266
+    second: Warrior_Blue_127
+  - first:
+      213: 5457526395853591241
+    second: Warrior_Blue_128
+  - first:
+      213: -5081344154065548521
+    second: Warrior_Blue_129
+  - first:
+      213: 6882300414769232863
+    second: Warrior_Blue_130
+  - first:
+      213: -9146789723473702934
+    second: Warrior_Blue_131
+  - first:
+      213: -6767106070431240095
+    second: Warrior_Blue_132
+  - first:
+      213: -4274759625821631516
+    second: Warrior_Blue_133
+  - first:
+      213: -2544272822927186236
+    second: Warrior_Blue_134
+  - first:
+      213: -4688508837513678291
+    second: Warrior_Blue_135
+  - first:
+      213: -7911993240962573070
+    second: Warrior_Blue_136
+  - first:
+      213: -8803248291016006494
+    second: Warrior_Blue_137
+  - first:
+      213: -8107327165644173933
+    second: Warrior_Blue_138
+  - first:
+      213: 2930065918792189509
+    second: Warrior_Blue_139
+  - first:
+      213: 5959120165030556484
+    second: Warrior_Blue_140
+  - first:
+      213: -3811903372073820889
+    second: Warrior_Blue_141
+  - first:
+      213: 7891477984620162308
+    second: Warrior_Blue_142
+  - first:
+      213: 7902863317303455231
+    second: Warrior_Blue_143
+  - first:
+      213: 3598599831059387567
+    second: Warrior_Blue_144
+  - first:
+      213: -1070173652833504286
+    second: Warrior_Blue_145
+  - first:
+      213: -5529045112571750967
+    second: Warrior_Blue_146
+  - first:
+      213: -6085482201294230829
+    second: Warrior_Blue_147
+  - first:
+      213: 4367858902595943188
+    second: Warrior_Blue_148
+  - first:
+      213: -7704398918399380997
+    second: Warrior_Blue_149
+  - first:
+      213: -5378645315240825956
+    second: Warrior_Blue_150
+  - first:
+      213: -6124547079778245979
+    second: Warrior_Blue_151
+  - first:
+      213: -1733822353027906877
+    second: Warrior_Blue_152
+  - first:
+      213: 9187351168359423458
+    second: Warrior_Blue_153
+  - first:
+      213: -7145887488171755878
+    second: Warrior_Blue_154
+  - first:
+      213: -8229347518001482272
+    second: Warrior_Blue_155
+  - first:
+      213: -414519949012712686
+    second: Warrior_Blue_156
+  - first:
+      213: 3996277375381099944
+    second: Warrior_Blue_157
+  - first:
+      213: 2618788277785140036
+    second: Warrior_Blue_158
+  - first:
+      213: -8124160083240892388
+    second: Warrior_Blue_159
+  - first:
+      213: -338917344547647836
+    second: Warrior_Blue_160
+  - first:
+      213: -1479507264885089597
+    second: Warrior_Blue_161
+  - first:
+      213: -5466414761850457697
+    second: Warrior_Blue_162
+  - first:
+      213: -8416405357596400651
+    second: Warrior_Blue_163
+  - first:
+      213: 2873668002801728958
+    second: Warrior_Blue_164
+  - first:
+      213: 3465457788110307105
+    second: Warrior_Blue_165
+  - first:
+      213: -3662925223569572618
+    second: Warrior_Blue_166
+  - first:
+      213: 3813032003043233581
+    second: Warrior_Blue_167
+  - first:
+      213: 3970663208398444903
+    second: Warrior_Blue_168
+  - first:
+      213: -1403916101932230753
+    second: Warrior_Blue_169
+  - first:
+      213: 2794875214041000668
+    second: Warrior_Blue_170
+  - first:
+      213: 1716311389583357898
+    second: Warrior_Blue_171
+  - first:
+      213: -2783393624499405575
+    second: Warrior_Blue_172
+  - first:
+      213: -6957813748683688753
+    second: Warrior_Blue_173
+  - first:
+      213: -2550975701474059242
+    second: Warrior_Blue_174
+  - first:
+      213: -1762341574219117112
+    second: Warrior_Blue_175
+  - first:
+      213: -5653301691597196814
+    second: Warrior_Blue_176
+  - first:
+      213: -8274142119293176852
+    second: Warrior_Blue_177
+  - first:
+      213: -9009716962942306217
+    second: Warrior_Blue_178
+  - first:
+      213: 8361166709760082355
+    second: Warrior_Blue_179
+  - first:
+      213: -7605735359291761518
+    second: Warrior_Blue_180
+  - first:
+      213: -2353675787463590236
+    second: Warrior_Blue_181
+  - first:
+      213: 3179200713040936417
+    second: Warrior_Blue_182
+  - first:
+      213: -5309621529778783189
+    second: Warrior_Blue_183
+  - first:
+      213: 1947090580281119173
+    second: Warrior_Blue_184
+  - first:
+      213: 1198924188848001568
+    second: Warrior_Blue_185
+  - first:
+      213: 1145695297794041021
+    second: Warrior_Blue_186
+  - first:
+      213: 7000469620360952778
+    second: Warrior_Blue_187
+  - first:
+      213: -319344730279040193
+    second: Warrior_Blue_188
+  - first:
+      213: 7461287341422022484
+    second: Warrior_Blue_189
+  - first:
+      213: -3962068620672811360
+    second: Warrior_Blue_190
+  - first:
+      213: 2297574886597693726
+    second: Warrior_Blue_191
+  - first:
+      213: 5206614455046672993
+    second: Warrior_Blue_192
+  - first:
+      213: 1729326836214665379
+    second: Warrior_Blue_193
+  - first:
+      213: 806861094141493679
+    second: Warrior_Blue_194
+  - first:
+      213: -6453879841593700831
+    second: Warrior_Blue_195
+  - first:
+      213: 4345143745462825827
+    second: Warrior_Blue_196
+  - first:
+      213: -6161386024382470187
+    second: Warrior_Blue_197
+  - first:
+      213: 133767882556558031
+    second: Warrior_Blue_198
+  - first:
+      213: 2154760079659460193
+    second: Warrior_Blue_199
+  - first:
+      213: -1006022874828399678
+    second: Warrior_Blue_200
+  - first:
+      213: -6335141445896912579
+    second: Warrior_Blue_201
+  - first:
+      213: 4382626209919508105
+    second: Warrior_Blue_202
+  - first:
+      213: 4629481311010804467
+    second: Warrior_Blue_203
+  - first:
+      213: 8338392050444134150
+    second: Warrior_Blue_204
+  - first:
+      213: 5370182721782956023
+    second: Warrior_Blue_205
+  - first:
+      213: -1832542328823365137
+    second: Warrior_Blue_206
+  - first:
+      213: 4292716141997182662
+    second: Warrior_Blue_207
+  - first:
+      213: 8333921805534514300
+    second: Warrior_Blue_208
+  - first:
+      213: 5930916068916682416
+    second: Warrior_Blue_209
+  - first:
+      213: -939910480139876592
+    second: Warrior_Blue_210
+  - first:
+      213: 1416269359921614797
+    second: Warrior_Blue_211
+  - first:
+      213: 4719756956075826631
+    second: Warrior_Blue_212
+  - first:
+      213: -6589877956958407360
+    second: Warrior_Blue_213
+  - first:
+      213: 5412442507882437024
+    second: Warrior_Blue_214
+  - first:
+      213: -7742146776025460549
+    second: Warrior_Blue_215
+  - first:
+      213: 1537552970943023296
+    second: Warrior_Blue_216
+  - first:
+      213: 4367131601622855820
+    second: Warrior_Blue_217
+  - first:
+      213: -7152999596204329349
+    second: Warrior_Blue_218
+  - first:
+      213: -2177527268455240925
+    second: Warrior_Blue_219
+  - first:
+      213: 8870277112820873002
+    second: Warrior_Blue_220
+  - first:
+      213: 1219915162869228335
+    second: Warrior_Blue_221
+  - first:
+      213: 8402659857910749309
+    second: Warrior_Blue_222
+  - first:
+      213: -7488783591136264862
+    second: Warrior_Blue_223
+  - first:
+      213: -3533501498320127366
+    second: Warrior_Blue_224
+  - first:
+      213: 7188705766232742382
+    second: Warrior_Blue_225
+  - first:
+      213: 8377377193276015807
+    second: Warrior_Blue_226
+  - first:
+      213: -3554976629092824820
+    second: Warrior_Blue_227
+  - first:
+      213: -4538095406204400647
+    second: Warrior_Blue_228
+  - first:
+      213: 786246917332745649
+    second: Warrior_Blue_229
+  - first:
+      213: -2227763902173494962
+    second: Warrior_Blue_230
+  - first:
+      213: 2311217142743157559
+    second: Warrior_Blue_231
+  - first:
+      213: 8936811868593698997
+    second: Warrior_Blue_232
+  - first:
+      213: -7301437687670572944
+    second: Warrior_Blue_233
+  - first:
+      213: 934591611049716558
+    second: Warrior_Blue_234
+  - first:
+      213: -7577902082357012401
+    second: Warrior_Blue_235
+  - first:
+      213: -1962586012250499894
+    second: Warrior_Blue_236
+  - first:
+      213: -3537567827958619847
+    second: Warrior_Blue_237
+  - first:
+      213: 5316002402532207306
+    second: Warrior_Blue_238
+  - first:
+      213: -8049602142224460155
+    second: Warrior_Blue_239
+  - first:
+      213: -8862309391665196584
+    second: Warrior_Blue_240
+  - first:
+      213: -6914551042136387817
+    second: Warrior_Blue_241
+  - first:
+      213: -5499279945400224032
+    second: Warrior_Blue_242
+  - first:
+      213: 2880023913427364154
+    second: Warrior_Blue_243
+  - first:
+      213: -9004767686990432665
+    second: Warrior_Blue_244
+  - first:
+      213: -5725812578915425773
+    second: Warrior_Blue_245
+  - first:
+      213: 7675017750037242322
+    second: Warrior_Blue_246
+  - first:
+      213: -7394357006898946226
+    second: Warrior_Blue_247
+  - first:
+      213: 3276896318041771764
+    second: Warrior_Blue_248
+  - first:
+      213: 8261757840961891031
+    second: Warrior_Blue_249
+  - first:
+      213: 3055609664619766674
+    second: Warrior_Blue_250
+  - first:
+      213: 5672246622721342541
+    second: Warrior_Blue_251
+  - first:
+      213: 8521472731418573782
+    second: Warrior_Blue_252
+  - first:
+      213: 8314290585420956805
+    second: Warrior_Blue_253
+  - first:
+      213: 7284995663228264937
+    second: Warrior_Blue_254
+  - first:
+      213: 782457991604936808
+    second: Warrior_Blue_255
+  - first:
+      213: 8814413458474350247
+    second: Warrior_Blue_256
+  - first:
+      213: -6676843482751159259
+    second: Warrior_Blue_257
+  - first:
+      213: -6138221741176489302
+    second: Warrior_Blue_258
+  - first:
+      213: -5520636590691929254
+    second: Warrior_Blue_259
+  - first:
+      213: -5884218238102858360
+    second: Warrior_Blue_260
+  - first:
+      213: 2796201502296231252
+    second: Warrior_Blue_261
+  - first:
+      213: -367423938647206641
+    second: Warrior_Blue_262
+  - first:
+      213: 8514716728670282862
+    second: Warrior_Blue_263
+  - first:
+      213: -155054746488908213
+    second: Warrior_Blue_264
+  - first:
+      213: 5595410199429711014
+    second: Warrior_Blue_265
+  - first:
+      213: -7996778962027121483
+    second: Warrior_Blue_266
+  - first:
+      213: -430012839874675603
+    second: Warrior_Blue_267
+  - first:
+      213: 9153757052375803468
+    second: Warrior_Blue_268
+  - first:
+      213: -1352096799217635948
+    second: Warrior_Blue_269
+  - first:
+      213: -4346288388073318448
+    second: Warrior_Blue_270
+  - first:
+      213: 7912598198014135184
+    second: Warrior_Blue_271
+  - first:
+      213: 3172662834484677235
+    second: Warrior_Blue_272
+  - first:
+      213: -3157757646504892642
+    second: Warrior_Blue_273
+  - first:
+      213: -3370603233577575604
+    second: Warrior_Blue_274
+  - first:
+      213: 1766068527663290579
+    second: Warrior_Blue_275
+  - first:
+      213: 2640567209379677366
+    second: Warrior_Blue_276
+  - first:
+      213: -2351756695663347758
+    second: Warrior_Blue_277
+  - first:
+      213: -625399393072173864
+    second: Warrior_Blue_278
+  - first:
+      213: 7418136869363680151
+    second: Warrior_Blue_279
+  - first:
+      213: 9213265830057588337
+    second: Warrior_Blue_280
+  - first:
+      213: 627983342050694018
+    second: Warrior_Blue_281
+  - first:
+      213: -6430211412791412847
+    second: Warrior_Blue_282
+  - first:
+      213: -7305027269507183153
+    second: Warrior_Blue_283
+  - first:
+      213: 1715143578909086448
+    second: Warrior_Blue_284
+  - first:
+      213: -8345731925542088447
+    second: Warrior_Blue_285
+  - first:
+      213: -1181921478748776688
+    second: Warrior_Blue_286
+  - first:
+      213: -8302394932383729366
+    second: Warrior_Blue_287
+  - first:
+      213: 7468675388068049527
+    second: Warrior_Blue_288
+  - first:
+      213: 8715428344235909885
+    second: Warrior_Blue_289
+  - first:
+      213: -6228872420192548959
+    second: Warrior_Blue_290
+  - first:
+      213: 7697796018965296063
+    second: Warrior_Blue_291
+  - first:
+      213: 2074586681852186022
+    second: Warrior_Blue_292
+  - first:
+      213: 6326570417547052229
+    second: Warrior_Blue_293
+  - first:
+      213: 8875797835886585345
+    second: Warrior_Blue_294
+  - first:
+      213: 3122766428195411897
+    second: Warrior_Blue_295
+  - first:
+      213: -7800327772005237279
+    second: Warrior_Blue_296
+  - first:
+      213: -8636322149652950373
+    second: Warrior_Blue_297
+  - first:
+      213: -3679116818383352455
+    second: Warrior_Blue_298
+  - first:
+      213: 6865911765442777277
+    second: Warrior_Blue_299
+  - first:
+      213: -731809041810624229
+    second: Warrior_Blue_300
+  - first:
+      213: 3741554705200171155
+    second: Warrior_Blue_301
+  - first:
+      213: -7740884102801425123
+    second: Warrior_Blue_302
+  - first:
+      213: -7208167710291548338
+    second: Warrior_Blue_303
+  - first:
+      213: -860173126411615348
+    second: Warrior_Blue_304
+  - first:
+      213: -9210499358419814384
+    second: Warrior_Blue_305
+  - first:
+      213: 2843961176288022793
+    second: Warrior_Blue_306
+  - first:
+      213: 8043559912907570347
+    second: Warrior_Blue_307
+  - first:
+      213: 1962727800412828871
+    second: Warrior_Blue_308
+  - first:
+      213: 5614186729927783774
+    second: Warrior_Blue_309
+  - first:
+      213: 7757427557242136353
+    second: Warrior_Blue_310
+  - first:
+      213: 8539960605252000321
+    second: Warrior_Blue_311
+  - first:
+      213: -7967557094067583259
+    second: Warrior_Blue_312
+  - first:
+      213: 7246395191545372899
+    second: Warrior_Blue_313
+  - first:
+      213: -1143886782744951403
+    second: Warrior_Blue_314
+  - first:
+      213: -9133974349849825482
+    second: Warrior_Blue_315
+  - first:
+      213: 4310780855880726232
+    second: Warrior_Blue_316
+  - first:
+      213: -3887240083072399055
+    second: Warrior_Blue_317
+  - first:
+      213: -5791861931421977259
+    second: Warrior_Blue_318
+  - first:
+      213: 7052321708060086860
+    second: Warrior_Blue_319
+  - first:
+      213: -2568454594727967614
+    second: Warrior_Blue_320
+  - first:
+      213: 3644028387213146300
+    second: Warrior_Blue_321
+  - first:
+      213: -4307835055785312862
+    second: Warrior_Blue_322
+  - first:
+      213: -4596526309230337840
+    second: Warrior_Blue_323
+  - first:
+      213: -8727443468643706231
+    second: Warrior_Blue_324
+  - first:
+      213: 2413302546578667625
+    second: Warrior_Blue_325
+  - first:
+      213: -2193522455099901101
+    second: Warrior_Blue_326
+  - first:
+      213: -8687098646253982865
+    second: Warrior_Blue_327
+  - first:
+      213: -7534368940277073499
+    second: Warrior_Blue_328
+  - first:
+      213: 526095744507696396
+    second: Warrior_Blue_329
+  - first:
+      213: 3398107156333220835
+    second: Warrior_Blue_330
+  - first:
+      213: 6124394388759990275
+    second: Warrior_Blue_331
+  - first:
+      213: -7105540688666265687
+    second: Warrior_Blue_332
+  - first:
+      213: -121060537971873316
+    second: Warrior_Blue_333
+  - first:
+      213: -6200978644566989250
+    second: Warrior_Blue_334
+  - first:
+      213: -271663417485092161
+    second: Warrior_Blue_335
+  - first:
+      213: 6470494917319707089
+    second: Warrior_Blue_336
+  - first:
+      213: 2851986272572967407
+    second: Warrior_Blue_337
+  - first:
+      213: 1746419665283126953
+    second: Warrior_Blue_338
+  - first:
+      213: -22201615897785857
+    second: Warrior_Blue_339
+  - first:
+      213: 4926150472469074193
+    second: Warrior_Blue_340
+  - first:
+      213: 1801675037573901716
+    second: Warrior_Blue_341
+  - first:
+      213: -7011984638642716315
+    second: Warrior_Blue_342
+  - first:
+      213: 8200307618447337157
+    second: Warrior_Blue_343
+  - first:
+      213: -148307461429860508
+    second: Warrior_Blue_344
+  - first:
+      213: -7493511015972674638
+    second: Warrior_Blue_345
+  - first:
+      213: -8472058009552401551
+    second: Warrior_Blue_346
+  - first:
+      213: 3733974478147914590
+    second: Warrior_Blue_347
+  - first:
+      213: -3345860060150305875
+    second: Warrior_Blue_348
+  - first:
+      213: -8619975748291803241
+    second: Warrior_Blue_349
+  - first:
+      213: 7503737078293454126
+    second: Warrior_Blue_350
+  - first:
+      213: 349836007997421386
+    second: Warrior_Blue_351
+  - first:
+      213: -3533576143898148347
+    second: Warrior_Blue_352
+  - first:
+      213: 5799490193708769491
+    second: Warrior_Blue_353
+  - first:
+      213: -6229482456042723753
+    second: Warrior_Blue_354
+  - first:
+      213: -9091310274533845769
+    second: Warrior_Blue_355
+  - first:
+      213: 7378135083391781716
+    second: Warrior_Blue_356
+  - first:
+      213: -4180793985857100963
+    second: Warrior_Blue_357
+  - first:
+      213: 8501831260285896191
+    second: Warrior_Blue_358
+  - first:
+      213: -6466947630049549433
+    second: Warrior_Blue_359
+  - first:
+      213: 2913644496460272869
+    second: Warrior_Blue_360
+  - first:
+      213: 2921859606306542705
+    second: Warrior_Blue_361
+  - first:
+      213: 5731414718401073126
+    second: Warrior_Blue_362
+  - first:
+      213: 8278403905276416785
+    second: Warrior_Blue_363
+  - first:
+      213: 1695996167230980474
+    second: Warrior_Blue_364
+  - first:
+      213: -2134060706124728902
+    second: Warrior_Blue_365
+  - first:
+      213: -6821172407025722952
+    second: Warrior_Blue_366
+  - first:
+      213: 5153844127220657836
+    second: Warrior_Blue_367
+  - first:
+      213: -5435494999330056586
+    second: Warrior_Blue_368
+  - first:
+      213: -5030426011671849859
+    second: Warrior_Blue_369
+  - first:
+      213: 5434551647251362980
+    second: Warrior_Blue_370
+  - first:
+      213: -3838637342745673558
+    second: Warrior_Blue_371
+  - first:
+      213: 6523133730932033430
+    second: Warrior_Blue_372
+  - first:
+      213: 249345230187936638
+    second: Warrior_Blue_373
+  - first:
+      213: -4362831118852801357
+    second: Warrior_Blue_374
+  - first:
+      213: 4602529296244705964
+    second: Warrior_Blue_375
+  - first:
+      213: -113851545208267982
+    second: Warrior_Blue_376
+  - first:
+      213: -289650464548831614
+    second: Warrior_Blue_377
+  - first:
+      213: 4219755084429667438
+    second: Warrior_Blue_378
+  - first:
+      213: -8106379522224458034
+    second: Warrior_Blue_379
+  - first:
+      213: 9115985298419204570
+    second: Warrior_Blue_380
+  - first:
+      213: -8576655101901305599
+    second: Warrior_Blue_381
+  - first:
+      213: 8884507048387742469
+    second: Warrior_Blue_382
+  - first:
+      213: -8588868940820943339
+    second: Warrior_Blue_383
+  - first:
+      213: -1926297652015124964
+    second: Warrior_Blue_384
+  - first:
+      213: 3981530878218923383
+    second: Warrior_Blue_385
+  - first:
+      213: -73648693736236723
+    second: Warrior_Blue_386
+  - first:
+      213: -691170024560855566
+    second: Warrior_Blue_387
+  - first:
+      213: 1592759188486726883
+    second: Warrior_Blue_388
+  - first:
+      213: 2723508814527924098
+    second: Warrior_Blue_389
+  - first:
+      213: 2326596459777653647
+    second: Warrior_Blue_390
+  - first:
+      213: -426950695194205595
+    second: Warrior_Blue_391
+  - first:
+      213: 3932691617313114676
+    second: Warrior_Blue_392
+  - first:
+      213: -8791876880189908477
+    second: Warrior_Blue_393
+  - first:
+      213: -3680861497251298362
+    second: Warrior_Blue_394
+  - first:
+      213: 4519628523517176817
+    second: Warrior_Blue_395
+  - first:
+      213: 1896535932867411111
+    second: Warrior_Blue_396
+  - first:
+      213: 2869597051960999859
+    second: Warrior_Blue_397
+  - first:
+      213: -6282288931428160049
+    second: Warrior_Blue_398
+  - first:
+      213: 7302645681746212568
+    second: Warrior_Blue_399
+  - first:
+      213: 4882368529888089192
+    second: Warrior_Blue_400
+  - first:
+      213: 3725577550343600789
+    second: Warrior_Blue_401
+  - first:
+      213: 4708207942672482656
+    second: Warrior_Blue_402
+  - first:
+      213: 2619500896330613537
+    second: Warrior_Blue_403
+  - first:
+      213: 8130784738125152795
+    second: Warrior_Blue_404
+  - first:
+      213: -607395793174316286
+    second: Warrior_Blue_405
+  - first:
+      213: -5419768021169275140
+    second: Warrior_Blue_406
+  - first:
+      213: 6740494327034016391
+    second: Warrior_Blue_407
+  - first:
+      213: 4000062473244830211
+    second: Warrior_Blue_408
+  - first:
+      213: 8298800403287354711
+    second: Warrior_Blue_409
+  - first:
+      213: 2362678430448758867
+    second: Warrior_Blue_410
+  - first:
+      213: -3679029170133086131
+    second: Warrior_Blue_411
+  - first:
+      213: -560596527111774034
+    second: Warrior_Blue_412
+  - first:
+      213: 2803730255891614109
+    second: Warrior_Blue_413
+  - first:
+      213: -3874050239149168742
+    second: Warrior_Blue_414
+  - first:
+      213: 6268341732492230406
+    second: Warrior_Blue_415
+  - first:
+      213: 4057029197607572033
+    second: Warrior_Blue_416
+  - first:
+      213: -8433084121515498129
+    second: Warrior_Blue_417
+  - first:
+      213: 768766259803318027
+    second: Warrior_Blue_418
+  - first:
+      213: -4987845144723464123
+    second: Warrior_Blue_419
+  - first:
+      213: -8793360069513442823
+    second: Warrior_Blue_420
+  - first:
+      213: -1096437397505590469
+    second: Warrior_Blue_421
+  - first:
+      213: -3290556410668141762
+    second: Warrior_Blue_422
+  - first:
+      213: 8367242199393835378
+    second: Warrior_Blue_423
+  - first:
+      213: 3532578501651429643
+    second: Warrior_Blue_424
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Warrior_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1400
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da42b25f9391410800000000000000
+      internalID: 1448252480329919801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1400
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc89cdee237675580800000000000000
+      internalID: -8838482275237848885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1400
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ee85c84cfb80b40800000000000000
+      internalID: 5406782203547414040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1400
+        width: 80
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c3c17b8af105410800000000000000
+      internalID: 1463704688382458982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1400
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198496f61a3af080800000000000000
+      internalID: -9152939422376490735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1400
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7dcddd9a7949540800000000000000
+      internalID: 5013799040997709749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1208
+        width: 60
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6e52f73040ac8e0800000000000000
+      internalID: -1672519898550114602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1208
+        width: 69
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144dcef506b4fd390800000000000000
+      internalID: -7791425953029368767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1208
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5181c668399410800000000000000
+      internalID: 1484279566179589967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1208
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6947c249f745c0d0800000000000000
+      internalID: -3403234807515756179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1208
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73bf3fc4d8f8a880800000000000000
+      internalID: -8599349895570148482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1208
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb894e3fb04a27610800000000000000
+      internalID: 1617535587422869692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1016
+        width: 71
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf22d963895ed82a0800000000000000
+      internalID: -6733473425934966021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1016
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf240de73b3df60800000000000000
+      internalID: 8057981515537251145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1016
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba377764ff74287c0800000000000000
+      internalID: -4070611951465040981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1015
+        width: 107
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9e512093e71f50800000000000000
+      internalID: 6852195566242143941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1013
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e613018500e9b1690800000000000000
+      internalID: -7630331419334528658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1016
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da6bfcb8990e7270800000000000000
+      internalID: 8250042118999599827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 824
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2f51e53e30b6910800000000000000
+      internalID: 1831561948527194828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 824
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51561999455f9f40800000000000000
+      internalID: 5737398224882651483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 824
+        width: 84
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7049d9a73268900800000000000000
+      internalID: 686275002757285879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 814
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a40c0e51aba751a0800000000000000
+      internalID: -6820794401073396575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 824
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae4a25d1ae408c80800000000000000
+      internalID: -8322565654407655767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 824
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5de284625a826e0800000000000000
+      internalID: -1862056862079330845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 632
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd780bf7663f8df0800000000000000
+      internalID: -175862040222990888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 632
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb4c733a9f5f2d10800000000000000
+      internalID: 2103004666898697155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 632
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8659b8ffac2554de0800000000000000
+      internalID: -1349581481503386264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 589
+        width: 118
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bf8668becf85d0800000000000000
+      internalID: -3057998330571279762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 601
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6d3e84edf2ab730800000000000000
+      internalID: 4015574649506354893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 628
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed79d1f5540f5ccf0800000000000000
+      internalID: -232515625000527906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 440
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c936c3767c0d33b00800000000000000
+      internalID: 807218313078530972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 440
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd75e325fd06900800000000000000
+      internalID: 675785488431832003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 440
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b55072083e25c70800000000000000
+      internalID: 8958472748343319348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 412
+        width: 146
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9d5daf21731e970800000000000000
+      internalID: 8782361303006435773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 415
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b3be7a994592f40800000000000000
+      internalID: 5704183421965384451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 440
+        width: 59
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24d1b8dccd91b1e0800000000000000
+      internalID: -2183790841163557842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 413
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1796d5dccdca1dab0800000000000000
+      internalID: -4985013248184194703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 248
+        width: 118
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e821dab04f155b2e0800000000000000
+      internalID: -2110690741743447410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_48
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 248
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d883c9e811afad40800000000000000
+      internalID: 5597869990218008791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_49
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 248
+        width: 118
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30049664fbed0890800000000000000
+      internalID: -7490071170321743814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_50
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 249
+        width: 135
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7222914aa270fd4d0800000000000000
+      internalID: -3107757338139221465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_52
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 249
+        width: 98
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb7eab92bb6d66c0800000000000000
+      internalID: -4148541266878104647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_55
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 248
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc609661f13597510800000000000000
+      internalID: 1547359339963549388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_59
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 56
+        width: 97
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83050f24e3476320800000000000000
+      internalID: 2551082361249137551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_60
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 56
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3ec3b18b72fc480800000000000000
+      internalID: -8876832668839517277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_61
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 56
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b303051fa5d048090800000000000000
+      internalID: -8033281151075340229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_62
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 57
+        width: 160
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dfaea56568bd740800000000000000
+      internalID: 5177879902043176195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_65
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 57
+        width: 126
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dff6a18b06a5060800000000000000
+      internalID: 6942968119378836813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Warrior_Blue_67
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 56
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f877fa6252c35c4d0800000000000000
+      internalID: -3115017436996339825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
